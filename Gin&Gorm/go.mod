@@ -1,4 +1,4 @@
-module github.com/LitxGoGo/ginAndGorm
+module github.com/LitxGoGoGo/ginAndGorm
 
 go 1.18
 

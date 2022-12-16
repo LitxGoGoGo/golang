@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/LitxGoGo/ginAndGorm/models"
+	"github.com/LitxGoGoGo/ginAndGorm/models"
 	"github.com/gin-gonic/gin"
 	"path"
 )

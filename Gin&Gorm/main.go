@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/LitxGoGo/ginAndGorm/controllers"
-	"github.com/LitxGoGo/ginAndGorm/models"
+	"github.com/LitxGoGoGo/ginAndGorm/controllers"
+	"github.com/LitxGoGoGo/ginAndGorm/models"
 	"github.com/gin-gonic/gin"
 )
 

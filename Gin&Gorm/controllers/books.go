@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/LitxGoGo/ginAndGorm/models"
+	"github.com/LitxGoGoGo/ginAndGorm/models"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
