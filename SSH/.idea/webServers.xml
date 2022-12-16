@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c1c8949-78c2-4b76-893c-3048625b10a5" name="华为">
+        <fileTransfer rootFolder="/root/GoProjects" accessType="SFTP" host="121.37.248.123" port="22" sshConfigId="edb5192c-c0df-4bda-9d3c-d5b0f1bc4c9d" sshConfig="root@121.37.248.123:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
